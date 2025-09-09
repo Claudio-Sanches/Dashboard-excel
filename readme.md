@@ -90,4 +90,6 @@ It is composed of 3 charts, showing the monthly distribution of sales:
 
 - by product - The values considered are gross, not considering coupon discounts.
 
+---
 > by CBS built in VSCode with Copilot assistance
+---
