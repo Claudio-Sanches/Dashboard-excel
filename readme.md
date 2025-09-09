@@ -43,9 +43,11 @@ Sua composição é composta por 3 gráficos, apresentando a distribuição mens
 
 ---
 
-# English Version
+> By CBS construido no VScode com auxílio do Copilot
 
-# DIO Project Challenge - Creating an Xbox Sales Dashboard with Excel
+---
+
+# DIO Project Challenge - Creating an Xbox Sales Dashboard with Excel (English Version)
 
 In this challenge, I created two dashboard spreadsheets with annual and monthly data.
 
@@ -87,3 +89,5 @@ It is composed of 3 charts, showing the monthly distribution of sales:
 - by subscription period
 
 - by product - The values considered are gross, not considering coupon discounts.
+
+> by CBS built in VSCode with Copilot assistance
